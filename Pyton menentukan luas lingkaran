@@ -1,0 +1,10 @@
+print("menghitung luas lingkaran   :")
+print(".................")
+
+r = float(input("masukan nilai jari :"))
+
+phi = 3.14
+
+luas = phi*r*r
+
+print("/nluasnya =" , str("%.2f" % luas))
